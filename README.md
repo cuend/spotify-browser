@@ -32,6 +32,7 @@ The Spotify Web Browser is a web application developed with TypeScript, Angular,
 
 The Spotify Web Browser project showcases my proficiency in creating responsive and secure web applications using TypeScript, Angular, Node.js, and Express. It demonstrates my ability to optimize page load times, implement robust security measures, and integrate with third-party APIs for a seamless user experience. For recruiters seeking a candidate with a strong foundation in full-stack development, this project serves as a testament to my skills and capabilities.
 
+---
 
 --Readme document for David Cuen, cuend@uci.edu, 61157101 --
 
